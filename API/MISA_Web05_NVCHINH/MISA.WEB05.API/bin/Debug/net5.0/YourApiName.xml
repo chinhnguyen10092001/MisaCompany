@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MISA.WEB05.API</name>
+    </assembly>
+    <members>
+        <member name="M:MISA_Web05_NVCHINH.Controllers.DepartmentsController.GetDepartments">
+            <summary>
+            Lấy toàn bộ bản ghi
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MISA_Web05_NVCHINH.Controllers.DepartmentsController.GetDepartmentById(System.Guid)">
+            <summary>
+            Lấy phòng ban theo Id
+            </summary>
+            <param name="departmentId">Id phòng ban</param>
+            <returns></returns>
+        </member>
+        <member name="M:MISA_Web05_NVCHINH.Controllers.DepartmentsController.PostDepartment(MISA.WEB05.COMMON.Model.Department)">
+            <summary>
+            Thêm mới 1 phòng ban
+            </summary>
+            <param name="department"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MISA_Web05_NVCHINH.Controllers.DepartmentsController.UpdateDepartment(MISA.WEB05.COMMON.Model.Department)">
+            <summary>
+            Cập nhật 1 phòng ban
+            </summary>
+            <param name="department"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MISA_Web05_NVCHINH.Controllers.DepartmentsController.DeleteDepartment(System.Guid)">
+            <summary>
+            Xóa 1 phòng ban
+            </summary>
+            <param name="id">Id phòng ban cần xóa</param>
+            <returns></returns>
+        </member>
+        <member name="F:MISA.WEB05.API.Controllers.EmployeeController.sevice">
+            <summary>
+            Nguyen van CHinh: Khoi tao cho interface
+            </summary>
+        </member>
+        <member name="M:MISA.WEB05.API.Controllers.EmployeeController.GetEmployee">
+            <summary>
+            Lấy toàn bộ bản ghi
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MISA.WEB05.API.Controllers.EmployeeController.GetById(System.Guid)">
+            <summary>
+            Tìm kiếm bằng mã nhân viên
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MISA.WEB05.API.Controllers.EmployeeController.DeleteEmployee(System.Guid)">
+            <summary>
+            Xóa 1 nhân viên
+            </summary>
+            <param name="id">ID cần xóa</param>
+            <returns></returns>
+        </member>
+        <member name="M:MISA.WEB05.API.Controllers.EmployeeController.DeleteEmployees(MISA.WEB05.COMMON.Model.ArrayDeleteId)">
+            <summary>
+            Xóa nhiều nhân viên
+            </summary>
+            <param name="arrayId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MISA.WEB05.API.Controllers.EmployeeController.InsertEmployee(MISA.WEB05.COMMON.Model.Employee)">
+            <summary>
+            Thêm mới 1 nhân viên
+            </summary>
+            <param name="employee"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MISA.WEB05.API.Controllers.EmployeeController.get_NewId">
+            <summary>
+            Lấy mã nhân viên mới
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MISA.WEB05.API.Controllers.EmployeeController.UpdateEmployee(MISA.WEB05.COMMON.Model.Employee)">
+            <summary>
+            Cập nhật 1 nhân viên
+            </summary>
+            <param name="employee"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MISA.WEB05.API.Controllers.EmployeeController.FillterEmployee(System.String,System.Int32,System.Int32)">
+            <summary>
+            Tìm kiếm theo mã,tên nhân viên, phân trang
+            </summary>
+            <param name="txtSeach">Mã,tên nhân viên cần tìm kiếm</param>
+            <param name="pageSize">Số bản ghi/trang</param>
+            <param name="pageNumber">Số thứ tự trang</param>
+            <returns>A string status</returns>
+        </member>
+        <member name="M:MISA.WEB05.API.Controllers.EmployeeController.ExportV2(System.Threading.CancellationToken)">
+            <summary>
+            Export file excel
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MISA.WEB05.API.Controllers.PositionController.Get">
+            <summary>
+            Lấy toàn bộ bản ghi
+            </summary>
+            <returns></returns>
+            <exception cref="T:System.Exception"></exception>
+        </member>
+        <member name="M:MISA.WEB05.API.Controllers.PositionController.GetById(System.Guid)">
+            <summary>
+            Lấy phòng ban theo Id
+            </summary>
+            <param name="Id">Id chức vụ</param>
+            <returns></returns>
+        </member>
+        <member name="M:MISA.WEB05.API.Controllers.PositionController.Insert(MISA.WEB05.COMMON.Model.Positions)">
+            <summary>
+            Thêm mới 1 chức vụ
+            </summary>
+            <param name="positions"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MISA.WEB05.API.Controllers.PositionController.Update(MISA.WEB05.COMMON.Model.Positions)">
+            <summary>
+            Cập nhật 1 chức vụ
+            </summary>
+            <param name="positions"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MISA.WEB05.API.Controllers.PositionController.Delete(System.Guid)">
+            <summary>
+            Xóa 1 chức vụ
+            </summary>
+            <param name="id">Id chức vụ cần xóa</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

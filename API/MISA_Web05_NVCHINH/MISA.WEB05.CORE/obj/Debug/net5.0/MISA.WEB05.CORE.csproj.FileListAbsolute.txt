@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\Cty MISA\API\MISA_Web05_NVCHINH\MISA.WEB05.CORE\bin\Debug\net5.0\MISA.WEB05.CORE.deps.json
+C:\Users\Administrator\Documents\Cty MISA\API\MISA_Web05_NVCHINH\MISA.WEB05.CORE\bin\Debug\net5.0\MISA.WEB05.CORE.dll
+C:\Users\Administrator\Documents\Cty MISA\API\MISA_Web05_NVCHINH\MISA.WEB05.CORE\bin\Debug\net5.0\MISA.WEB05.CORE.pdb
+C:\Users\Administrator\Documents\Cty MISA\API\MISA_Web05_NVCHINH\MISA.WEB05.CORE\bin\Debug\net5.0\MISA.WEB05.COMMON.dll
+C:\Users\Administrator\Documents\Cty MISA\API\MISA_Web05_NVCHINH\MISA.WEB05.CORE\bin\Debug\net5.0\MISA.WEB05.COMMON.pdb
+C:\Users\Administrator\Documents\Cty MISA\API\MISA_Web05_NVCHINH\MISA.WEB05.CORE\obj\Debug\net5.0\MISA.WEB05.CORE.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Cty MISA\API\MISA_Web05_NVCHINH\MISA.WEB05.CORE\obj\Debug\net5.0\MISA.WEB05.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Cty MISA\API\MISA_Web05_NVCHINH\MISA.WEB05.CORE\obj\Debug\net5.0\MISA.WEB05.CORE.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Cty MISA\API\MISA_Web05_NVCHINH\MISA.WEB05.CORE\obj\Debug\net5.0\MISA.WEB05.CORE.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Cty MISA\API\MISA_Web05_NVCHINH\MISA.WEB05.CORE\obj\Debug\net5.0\MISA.WEB05.CORE.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Cty MISA\API\MISA_Web05_NVCHINH\MISA.WEB05.CORE\obj\Debug\net5.0\MISA.WEB05.CORE.csproj.CopyComplete
+C:\Users\Administrator\Documents\Cty MISA\API\MISA_Web05_NVCHINH\MISA.WEB05.CORE\obj\Debug\net5.0\MISA.WEB05.CORE.dll
+C:\Users\Administrator\Documents\Cty MISA\API\MISA_Web05_NVCHINH\MISA.WEB05.CORE\obj\Debug\net5.0\ref\MISA.WEB05.CORE.dll
+C:\Users\Administrator\Documents\Cty MISA\API\MISA_Web05_NVCHINH\MISA.WEB05.CORE\obj\Debug\net5.0\MISA.WEB05.CORE.pdb
+C:\Users\Administrator\Documents\Cty MISA\API\MISA_Web05_NVCHINH\MISA.WEB05.CORE\obj\Debug\net5.0\refint\MISA.WEB05.CORE.dll

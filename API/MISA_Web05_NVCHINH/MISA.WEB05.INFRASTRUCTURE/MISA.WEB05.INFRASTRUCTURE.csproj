@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.123" />
+    <PackageReference Include="EPPlus" Version="5.8.12" />
+    <PackageReference Include="MySqlConnector" Version="2.1.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MISA.WEB05.COMMON\MISA.WEB05.COMMON.csproj" />
+    <ProjectReference Include="..\MISA.WEB05.CORE\MISA.WEB05.CORE.csproj" />
+  </ItemGroup>
+
+</Project>
